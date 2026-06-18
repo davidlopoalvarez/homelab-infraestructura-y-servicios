@@ -6,6 +6,12 @@
 
 ---
 
+## 🗺️ Diagrama de infraestructura
+
+![Diagrama de infraestructura](IMAGENES/DIAGRAMAHOMELAB.png)
+
+---
+
 ## 📋 Resumen
 
 Este entorno se utiliza para aprendizaje continuo, administración de sistemas y pruebas de nuevas tecnologías.
